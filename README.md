@@ -8,7 +8,7 @@ This project is for online correspondence
 * Java 8
 * Spring Boot
 *     WebSocket
-*Jquery
-*Bootstrap
-*Sockjs client
-*Lombok
+* Jquery
+* Bootstrap
+* Sockjs client
+* Lombok
